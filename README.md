@@ -5,7 +5,7 @@
 
 
 Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderSpidy&layout=compact&theme=dark)](https://github.com/AnderSpidy/AnderSpidy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderSpidy&layout=compact&theme=transparent&title_color=7CFC00&text_color=483D8B&border_color=00FF00)](https://github.com/AnderSpidy/AnderSpidy)
 
 
 
