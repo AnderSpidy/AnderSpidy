@@ -6,3 +6,8 @@
 
 Linguagens
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderSpidy&layout=compact)](https://github.com/AnderSpidy/AnderSpidy)
+
+
+
+SEI LA 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
