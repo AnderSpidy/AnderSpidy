@@ -14,7 +14,7 @@ SEI LA
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderSpidy)](https://github.com/anuraghazra/github-readme-stats)
 
 1
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderSpidey&hide=contribs,prs&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnderSpidey&hide=contribs,prs)
 
 2
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
